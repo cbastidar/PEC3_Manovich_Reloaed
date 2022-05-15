@@ -3,10 +3,9 @@
 Autor: Noemí Armengod       
 Data: 15/05/2022 
 
-
+---
 
 ## Què és la hibridació dels mitjans?
----
 
 La hibridació és un procés en el qual els mitjans es fusionen, els elements comparteixen les tècniques de programari i les interfícies generant una experiència nova i coherent, que és diferent de l'experimentació dels elements per separat.
 
@@ -17,7 +16,6 @@ Durant els anys noranta quan gran part dels medis físics van ser simulats mitja
 En conclusió, observem que la tendència a la hibridació dels mitjans és i serà cada cop més freqüent i creativa, donant lloc a nou programari i aplicacions.
 
 ## Cas 1: On és Carmen Sandiego a Google Earth?
----
 
 Carmen Sandiego és una aventura gràfica creada en 1985 per *Broderbund Software*. Està orientada a estudiants de primària i el seu propòsit és ensenyar conceptes bàsics de geografia. S'han publicat més de 20 videojocs i nombrosos productes relacionats amb la saga, entre ells concursos de televisió, sèries d'animació, jocs de taula, còmics i llibres de ficció.
 
@@ -46,7 +44,6 @@ La integració d'aquest joc dins de la plataforma de Google Earth m'ha semblat m
 [Jugar a On és Carmen Sandiego a Google Earth?](http://g.co/carmensandiego)
 
 ## Cas 2: Cinema interactiu
----
 
 El cinema interactiu permet a l'espectador sentir-se partícip d'allò que està veient i pretén donar-li un rol actiu que permeti completar la història. Una altra definició és el videojoc que es pot considerar un híbrid que dona al jugador un gran control sobre les decisions del personatge. Tanmateix, moltes vegades, el resultat és un producte que no aconsegueix aprofitar els recursos del format.
 
@@ -64,11 +61,11 @@ Amb els avenços de la informàtica, les pel·lícules interactives van disminui
 
 Amb l'arribada de les anotacions de YouTube el 2008, es van crear una sèrie d'aventures interactives que utilitzaven les anotacions per explicar històries interactives que permetien a l'usuari guiar la narrativa.
 
-El 2016, Netflix va començar a experimentar amb obres interactives dirigides a nens. La primera pel·lícula interactiva important amb escenes d'acció en viu va ser **Black Mirror: Bandersnatch**, estrenada el desembre del 2018. Netflix va treballar amb el creador de Black Mirror, Charlie Brooker, per desenvolupar una narrativa que va aprofitar el format interactiu mentre desenvolupen les seves pròpies eines per millorar l'emmagatzematge en memòria cau d'escenes i la gestió de la progressió de la pel·lícula per fer servir en projectes futurs.
+El 2016, Netflix va començar a experimentar amb obres interactives dirigides a nens. La primera pel·lícula interactiva important amb escenes d'acció va ser **Black Mirror: Bandersnatch**, estrenada el desembre del 2018. Netflix va treballar amb el creador de la sèrie, Charlie Brooker, per desenvolupar una narrativa que va aprofitar el format interactiu mentre desenvolupen les seves pròpies eines per millorar l'emmagatzematge en memòria cau d'escenes i la gestió de la progressió de la pel·lícula per fer servir en projectes futurs.
 
 ![Opcions de la pel·lícula Bandersnatch](/imatges/Black-Mirror-Bandersnatch.jpg)
 
-Les pel·lícules es filmen seguint un fil argumental principal i algunes escenes alternatives que es mostren si l'espectador escull una acció incorrecta. 
+Aquest tipus de pel·lícules es filmen seguint un fil argumental principal i algunes escenes alternatives que es mostren si l'espectador escull una acció incorrecta. 
 
 Tot i que avui dia, algunes plataformes de vídeo en streaming ofereixen cada cop més aquest tipus de producte, la interactivitat limitada de l'espectador i l'alt cost de producció han fet que la producció d'aquestes pel·lícules sigui encara molt limitada.
 
