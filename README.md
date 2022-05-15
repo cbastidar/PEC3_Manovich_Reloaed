@@ -3,11 +3,6 @@
 Autor: Noemí Armengod       
 Data: 15/05/2022 
 
-* [Què és la hibridació dels mitjans?](#qu---s-la-hibridaci--dels-mitjans-)
-* [Cas 1: On és Carmen Sandiego a Google Earth?](#cas-1--on--s-carmen-sandiego-a-google-earth-)
-* [Cas 2: Cinema interactiu](#cas-2--cinema-interactiu)
-* [Referències i Bibliografia](#refer-ncies-i-bibliografia)
-
 ---
 
 ## Què és la hibridació dels mitjans?
