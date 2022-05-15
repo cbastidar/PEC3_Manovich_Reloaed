@@ -67,7 +67,7 @@ El 2016, Netflix va començar a experimentar amb obres interactives dirigides a 
 
 Aquest tipus de pel·lícules es filmen seguint un fil argumental principal i algunes escenes alternatives que es mostren si l'espectador escull una acció incorrecta. 
 
-Tot i que avui dia, algunes plataformes de vídeo en streaming ofereixen cada cop més aquest tipus de producte, la interactivitat limitada de l'espectador i l'alt cost de producció han fet que la producció d'aquestes pel·lícules sigui encara molt limitada.
+Tot i que avui dia, algunes plataformes de vídeo en *streaming* ofereixen cada cop més aquest tipus de producte, la interactivitat limitada de l'espectador i l'alt cost de producció fan que la producció d'aquestes pel·lícules sigui encara molt limitada.
 
 --- 
 
